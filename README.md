@@ -1,16 +1,14 @@
-### Hi there 👋
+# :sunglasses:  Hey, nice to see you.
+ 
+## Welcome to my page!  
 
-<!--
-**Pipe12/Pipe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrés,  engineer from **Cali, Colombia.** I have a experience in biomedical equipment maintenance. I participated in some mobil robotic challenges at college. some day I start learn HTML and CSS and I become an enthusiastic.
 
-Here are some ideas to get you started:
+## Things I code with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :bike: HTML
+* :car: CSS
+* :airplane: javaScript
+* :helicopter: SASS
+* :minibus: Git
+
